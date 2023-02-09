@@ -1,5 +1,5 @@
 # dashboard-rh-power-bi
-Dashboard criado no curso ["Power BI: explorando recursos visuais" da Alura]([url](https://cursos.alura.com.br/course/power-bi-explorando-recursos-visuais))
+Dashboard criado no curso [Power BI: explorando recursos visuais" da Alura](https://cursos.alura.com.br/course/power-bi-explorando-recursos-visuais)
 
 Aspectos abordados no projeto do curso:
 
